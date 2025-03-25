@@ -1,0 +1,20 @@
+These are the website files for Benjamin Moder and Genna Marenco
+
+You can run the website locally by running a Node
+instance in a folder with all of these files, or
+you can see the code in action on our class websites:
+- http://people.tamu.edu/~benjaminmoder/viza654/pr03/index.html
+- http://people.tamu.edu/~~gmarenco/viza654/pr03/index.html
+
+`index.html` is the main website file that references
+the `shader.frag` file.
+
+`shader.frag` is the actual glsl shader code, and can be
+run in shadertoy with minor modifications.
+
+`style.css` has all the styling information for making the
+website look the way it does.
+
+`imgs/` contains all of the component images used by the
+shader, as well as an additional image used for documentation
+on the website.
